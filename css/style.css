@@ -1,0 +1,18 @@
+.parent p {
+    text-align: center;
+    margin: 30px 0 30px 0;
+    font-size: 22px;
+    color: blanchedalmond;
+}
+.parent h1 {
+    text-align: center;
+    font-size: 40px;
+    color: blanchedalmond;
+}
+.parent {
+    border: 1px, solid #919599;
+    border-radius: 9px;
+    background-color: #919599;
+    width: 900px;
+    margin: 0 auto;
+}
